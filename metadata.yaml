@@ -1,0 +1,38 @@
+_repo: Voice-from-the-Cave_34832
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34832-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wirt, Mildred A. (Mildred Augustine)
+    aliases:
+    - Augustine, Mildred
+    - Wirt, Mildred Augustine
+    - Benson, Mildred Wirt
+    - Benson, Millie
+    - Wirt, Ann
+    birthdate: 1905
+    deathdate: 2002
+    gutenberg_agent_id: '37000'
+    url: http://www.gutenberg.org/2009/agents/37000
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/c#a36376
+    - http://en.wikipedia.org/wiki/Mildred_Benson
+description: ''
+gutenberg_issued: '2011-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34832'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women detectives -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Parker, Penny (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+title: Voice from the Cave
+url: http://www.gutenberg.org/ebooks/34832
