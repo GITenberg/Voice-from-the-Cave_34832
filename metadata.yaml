@@ -20,6 +20,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/c#a36376
     - http://en.wikipedia.org/wiki/Mildred_Benson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34832#Voice-from-the-Cave
 gutenberg_issued: '2011-01-03'
 gutenberg_type: Text
 identifiers:
